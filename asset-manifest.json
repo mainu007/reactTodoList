@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/reactTodoList/static/css/main.c28cd040.chunk.css",
-    "main.js": "/reactTodoList/static/js/main.60f99939.chunk.js",
-    "main.js.map": "/reactTodoList/static/js/main.60f99939.chunk.js.map",
+    "main.css": "/reactTodoList/static/css/main.46ed7a2b.chunk.css",
+    "main.js": "/reactTodoList/static/js/main.8202a365.chunk.js",
+    "main.js.map": "/reactTodoList/static/js/main.8202a365.chunk.js.map",
     "runtime-main.js": "/reactTodoList/static/js/runtime-main.86063dc8.js",
     "runtime-main.js.map": "/reactTodoList/static/js/runtime-main.86063dc8.js.map",
-    "static/js/2.b5a71990.chunk.js": "/reactTodoList/static/js/2.b5a71990.chunk.js",
-    "static/js/2.b5a71990.chunk.js.map": "/reactTodoList/static/js/2.b5a71990.chunk.js.map",
+    "static/css/2.b923e412.chunk.css": "/reactTodoList/static/css/2.b923e412.chunk.css",
+    "static/js/2.81e2dc75.chunk.js": "/reactTodoList/static/js/2.81e2dc75.chunk.js",
+    "static/js/2.81e2dc75.chunk.js.map": "/reactTodoList/static/js/2.81e2dc75.chunk.js.map",
     "index.html": "/reactTodoList/index.html",
-    "precache-manifest.835d9d88a610778882037d4ddb952d1a.js": "/reactTodoList/precache-manifest.835d9d88a610778882037d4ddb952d1a.js",
+    "precache-manifest.d366e6e29baf991bdab0e95d169470bc.js": "/reactTodoList/precache-manifest.d366e6e29baf991bdab0e95d169470bc.js",
     "service-worker.js": "/reactTodoList/service-worker.js",
-    "static/css/main.c28cd040.chunk.css.map": "/reactTodoList/static/css/main.c28cd040.chunk.css.map",
-    "static/js/2.b5a71990.chunk.js.LICENSE.txt": "/reactTodoList/static/js/2.b5a71990.chunk.js.LICENSE.txt"
+    "static/css/2.b923e412.chunk.css.map": "/reactTodoList/static/css/2.b923e412.chunk.css.map",
+    "static/css/main.46ed7a2b.chunk.css.map": "/reactTodoList/static/css/main.46ed7a2b.chunk.css.map",
+    "static/js/2.81e2dc75.chunk.js.LICENSE.txt": "/reactTodoList/static/js/2.81e2dc75.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/reactTodoList/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.86063dc8.js",
-    "static/js/2.b5a71990.chunk.js",
-    "static/css/main.c28cd040.chunk.css",
-    "static/js/main.60f99939.chunk.js"
+    "static/css/2.b923e412.chunk.css",
+    "static/js/2.81e2dc75.chunk.js",
+    "static/css/main.46ed7a2b.chunk.css",
+    "static/js/main.8202a365.chunk.js"
   ]
 }
